@@ -61,10 +61,4 @@ pip install pandas numpy matplotlib seaborn
 - Analyzed customer demographics (gender) and purchasing behavior.
 - Provided actionable insights for marketing and inventory planning during festive seasons.
 
-## 📬 Contact
-
-For any queries or feedback, feel free to reach out:
-- **Name**: Ranjit Raj Nahak
-- **Email**: sniperranjit10@gmail.com
-
 ---
