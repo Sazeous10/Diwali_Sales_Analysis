@@ -10,11 +10,11 @@ This project provides a detailed **Exploratory Data Analysis (EDA)** of a Diwali
 | **Top 10 Products by Sales Amount**     | Bar plot showing products with highest total sales revenue.  |
 | **Gender Distribution of Customers**    | Count plot illustrating customer gender distribution.         |
 | **Sales by Gender**                     | Bar plot showing total orders by gender.                      |
-| *Age Group Distribution of Customers* | Bar plot showing total orders and amount spent by age groups          |
-| *Top 10 States by Sales Amount and Orders* | Bar plot showing most orders and amount spent state wise         |
-| **Sales Amount and Orders by Marrital Status* | Bar plot showing most orders and amount spent based on marrital status         |
-| **Sales Amount and Orders by Occupation* | Bar plot showing most orders and amount spent based on Occupation        |
-| **Sales Amount and Orders by Product Category* | Bar plot showing most orders and amount spent based on Product Category        |
+| **Age Group Distribution of Customers** | Bar plot showing total orders and amount spent by age groups          |
+| **Top 10 States by Sales Amount and Orders** | Bar plot showing most orders and amount spent state wise         |
+| **Sales Amount and Orders by Marrital Status** | Bar plot showing most orders and amount spent based on marrital status         |
+| **Sales Amount and Orders by Occupation** | Bar plot showing most orders and amount spent based on Occupation        |
+| **Sales Amount and Orders by Product Category** | Bar plot showing most orders and amount spent based on Product Category        |
 
 ## 📁 Project Structure
 
